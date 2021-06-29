@@ -1,3 +1,3 @@
 my target
-- be businessmen
-- buy a car nissan xtrail
+- be businessmen // harus ada di app 3
+- buy a car nissan xtrail // ada di app 2 dan app 3
