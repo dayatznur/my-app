@@ -2,3 +2,4 @@ my target
 - be businessmen // harus ada di app 3
 - buy a car nissan xtrail // ada di app 2 dan app 3
 - beli sepeda // only app 3
+- beli meja kerja // app 2 & app 3
