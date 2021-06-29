@@ -1,4 +1,5 @@
 my target
-- make a youtube
-- be businessmen
-- buy a car nissan xtrail
+- make a youtube // harus ada di app 2
+- be businessmen // harus ada di app 3
+- buy a car nissan xtrail // ada di app 2 dan app 3
+- lunas rumah // harus ada di app 2
