@@ -4,3 +4,4 @@ my target
 - buy a car nissan xtrail // ada di app 2 dan app 3
 - lunas rumah // harus ada di app 2
 - beli sepeda // only app 3
+- beli meja kerja // app 2 & app 3
